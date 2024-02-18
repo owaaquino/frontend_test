@@ -211,6 +211,12 @@
   }
 }
 
+@media (max-width: 768px) {
+  .main {
+    padding: 1rem;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   .vercelLogo {
     filter: invert(1);
